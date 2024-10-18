@@ -1,0 +1,27 @@
+.nav {
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  height: 50px;
+}
+
+button {
+  background-color: rgb(6, 6, 140);
+  border-radius: 10px;
+  color: white;
+}
+
+.right-nav {
+  margin-top: 17px;
+  margin-right: 100px;
+}
+
+.left-nav {
+  margin-top: 17px;
+  margin-left: 100px;
+}
+
+body {
+  background-color: blue;
+}
